@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>A ver a ver...</title>
+</head>
+<body>
+    <header>
+        <h1>No te rias de mi primera pagina, sino el gatito va a llorar</h1>
+
+        <Span>Hola</Span>
+        <Span>aca te muestro un poquito</Span>
+        <Span>de lo que voy haciendo, actualmente estoy como este gatito:</Span>
+     </header>
+     <main>
+        <img src="Imagen.jpg" width="400"/>
+        <section>
+            <article>
+             <h2>Esto parece ser un encabezado</h2>
+
+             <h3>Este es otro, pero menos importante</h3>
+             <div><p>Aca hay que mandar saraza</p>
+                <p>Aca tambien, pero con un poco mas de texto</p>
+                </article></div>
+             
+             <hr />
+            <article>
+             <h3>Hoy hizo mucho calor, por suerte tenemos aire acondicionado</h3>
+             <p>Hoy comimos milanesitas ricas con Mit</p>
+    
+             <ol> 
+             <li>¿Cuando empiezan a pagarme en dolares? </li>
+             <li>¿Cuando empiezan a pagarme en dolares? </li>
+             <li>¿Cuando empiezan a pagarme en dolares? </li>
+             </ol>
+            </article>
+        <hr />
+             <article>
+            
+             <h3>Otro emcabezado</h3>
+             <p>Ruta de aprendizaje</p>
+    
+            <Ul>
+             <li>HTLM</li>
+             <li>CCS</li>
+             <li>JavaScript</li> 
+             </Ul>
+             </article>
+     </main>
+     </section>
+     <footer>
+        <p>Este es el footer de la pagina. Ahora voy a poner unos enlaces, entre ellos uno para que pongas los datos de tu tarjeta para estafarte, gracias</p>
+
+        <a target="_blank" href="https://www.linkedin.com/in/araceli-ledesma/">LinkedIn</a> 
+
+    </footer>
+</body>
+</html>
